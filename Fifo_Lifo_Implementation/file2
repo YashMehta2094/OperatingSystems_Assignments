@@ -1,0 +1,10 @@
+5
+print 1024
+print 5000
+load 2, 1024
+load 1, 5000
+print 1024
+print 5000
+sub 1024, 5000, 5100
+load 4, 4000
+print 4000

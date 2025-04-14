@@ -1,0 +1,10 @@
+load file1 file2 file7 file3 file4 file5 file6
+run 1
+pteall output
+run 2
+pteall output1
+kill 2
+run 3
+pteall output2
+run 4
+pteall output3

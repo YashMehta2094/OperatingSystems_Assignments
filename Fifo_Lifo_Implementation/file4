@@ -1,0 +1,5 @@
+6
+load 2, 6000
+load 1, 1000
+print 1000
+print 6000
